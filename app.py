@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(layout="centered")
 
-st.title("Exibir Imagem")
+st.title("")
 
 # CSS para centralizar e aumentar botão
 st.markdown("""
@@ -13,7 +13,7 @@ st.markdown("""
         margin-top: 50px;
     }
     div.stButton > button {
-        width: 300px;
+        width: 500px;
         height: 100px;
         font-size: 24px;
     }
