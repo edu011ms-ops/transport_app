@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(layout="centered")
 
-st.title("Gerador de Imagens")
+st.title("")
 
 # estado para controlar se já clicou
 if "mostrar" not in st.session_state:
@@ -20,7 +20,7 @@ st.markdown("""
         margin-top: 50px;
     }
     div.stButton > button {
-        width: 300px;
+        width: 700px;
         height: 100px;
         font-size: 24px;
     }
