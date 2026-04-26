@@ -13,7 +13,7 @@ st.markdown("""
         margin-top: 50px;
     }
     div.stButton > button {
-        width: 500px;
+        width: 700px;
         height: 100px;
         font-size: 24px;
     }
