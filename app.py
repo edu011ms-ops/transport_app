@@ -29,4 +29,4 @@ st.markdown('</div>', unsafe_allow_html=True)
 
 # quando clicar
 if clicou:
-    st.image("foto1.png", caption="Minha imagem", use_container_width=True)
+    st.image("foto1.png", caption="", use_container_width=True)
